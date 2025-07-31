@@ -1,0 +1,76 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  background: image-set(url(Vegas\ divano\ angolare\ con\ poggiatesta\ reclinabili\ in\ microfibra\ impermeabile\ T11\ giallo\ -\ 271\ cm\ Sinistro\ _\ giallo.jfif))
+
+  
+}
+
+header {
+  background-color: #f0cea48e;
+  color: white;
+  padding: 30px 20px;
+  text-align: quarter;
+}
+
+header h1 {
+  margin: 0;
+}
+
+nav {
+  background-color: #8c8787;
+  text-align: center;
+  padding: 10px 0;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: bold;
+}
+
+section {
+  padding: 40px 20px;
+  max-width: 900px;
+  margin: auto;
+}
+.tentan {
+  background-color: #86a233;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 8px rgba(0,0,0,0.1);
+}
+
+
+.project {
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 0 8px rgba(0,0,0,0.1);
+  padding: 20px;
+  margin-bottom: 20px;
+  float: left;
+}
+
+.project img {
+  float: right;
+  max-width: 25%;
+  box-shadow: inset 111 0 10px rgba(0,0,0,0.1);
+  height: auto;
+  border-radius: 10px;
+}
+
+footer {
+  background-color: #222;
+  color: white;
+  width: 100%;
+  text-align: center;
+  padding-top: 50px;
+  height: 50px;
+}
